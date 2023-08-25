@@ -17,4 +17,5 @@ const config: Config = {
   },
   plugins: [],
 };
+//test 2
 export default config;
